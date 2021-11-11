@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsShutdown", "WindowsShutdown\WindowsShutdown.csproj", "{DA8DE4BD-67A8-43E9-B5F1-5AC1F824980F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8DE4BD-67A8-43E9-B5F1-5AC1F824980F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8DE4BD-67A8-43E9-B5F1-5AC1F824980F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8DE4BD-67A8-43E9-B5F1-5AC1F824980F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8DE4BD-67A8-43E9-B5F1-5AC1F824980F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62FE3E3-C5AD-4FBC-9D31-090A1005333B}
+	EndGlobalSection
+EndGlobal
